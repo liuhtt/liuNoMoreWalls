@@ -40,6 +40,14 @@ proxies:
   sni: ger1.riziro.ir
   tls: false
   type: hysteria2
+- name: 🇩🇪@V2raybazi
+  password: zhangyang
+  port: 6443
+  server: 130.61.50.75
+  skip-cert-verify: true
+  sni: https://www.calmloud.com
+  tls: false
+  type: hysteria2
 - cipher: chacha20-ietf-poly1305
   name: DE_speednode_0003
   password: 453u6Gcei04NyXbrWLKa0M
