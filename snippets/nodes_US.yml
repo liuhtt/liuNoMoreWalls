@@ -91,26 +91,10 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- alterId: 0
-  cipher: auto
-  name: US_speednode_0054
-  port: 13932
-  server: 104.253.134.92
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 010a6106-960a-4a3c-94d3-410a50c1219d
-- name: US_speednode_0063
-  network: ws
-  password: Mitivpn
+- cipher: aes-256-cfb
+  name: US_speednode_0116
+  password: amazonskr05
   port: 443
-  server: iranpoems.ir
-  skip-cert-verify: false
-  sni: www.gamingdll.ir
-  type: trojan
+  server: 34.207.235.215
+  type: ss
   udp: true
-  ws-opts:
-    headers:
-      Host: www.gamingdll.ir
-    path: /usa=mitivpn
