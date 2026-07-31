@@ -67,7 +67,7 @@ proxies:
     headers:
       Host: server32.beheshtbaneh.com
     path: /
-- name: 美国|@ripaojiedian
+- name: HK_speednode_0011
   network: tcp
   password: d1960ba9f0f6353353994fa844cf817b
   port: 17005
@@ -75,7 +75,8 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 美国2|@ripaojiedian
+  udp: true
+- name: HK_speednode_0014
   network: tcp
   password: d1960ba9f0f6353353994fa844cf817b
   port: 49277
@@ -83,7 +84,8 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: 美国3|@ripaojiedian
+  udp: true
+- name: HK_speednode_0013
   network: tcp
   password: BxceQaOe
   port: 38961
@@ -91,3 +93,12 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
+  udp: true
+- name: US_speednode_0204
+  password: ba07a8af-5544-48ac-ab62-3b6c00a44fa6
+  port: 20004
+  server: oplosgru-c.catcat321.com
+  skip-cert-verify: true
+  sni: hk.catxstar.com
+  type: trojan
+  udp: true
