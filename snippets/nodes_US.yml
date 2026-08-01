@@ -83,7 +83,7 @@ proxies:
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
-- name: HK_speednode_0023
+- name: 美国3|@ripaojiedian
   network: tcp
   password: BxceQaOe
   port: 35966
@@ -91,29 +91,7 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-  udp: true
-- cipher: aes-256-cfb
-  name: US_speednode_0189
-  password: amazonskr05
-  port: 443
-  server: 13.62.20.75
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: US_speednode_0192
-  password: amazonskr05
-  port: 443
-  server: 13.62.231.217
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: US_speednode_0196
-  password: amazonskr05
-  port: 443
-  server: 3.91.76.154
-  type: ss
-  udp: true
-- name: US_speednode_0199
+- name: US_speednode_0176
   network: ws
   password: 51a0af77-a60c-4d9b-81a4-f50e1b38d90b
   port: 2096
@@ -126,3 +104,20 @@ proxies:
     headers:
       Host: jumao91.shop
     path: /proxyip=45.207.156.255
+- alterId: 2
+  cipher: auto
+  name: US_speednode_0190
+  port: 30833
+  server: v33.hdacd.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+- cipher: aes-256-cfb
+  name: US_speednode_0191
+  password: amazonskr05
+  port: 443
+  server: 98.81.132.97
+  type: ss
+  udp: true
