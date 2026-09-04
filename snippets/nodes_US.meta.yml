@@ -41,14 +41,6 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: '美国 #3'
-  password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
-  port: 443
-  server: faq.wwwinternetvideo.click
-  skip-cert-verify: true
-  sni: cabinet.wwwinternetvideo.click
-  tls: false
-  type: hysteria2
 - alterId: 0
   cipher: auto
   name: github.com/freefq - 美国CloudFla...
