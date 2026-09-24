@@ -7,6 +7,13 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
+- name: 🪐88@oneclickvpnkeys
+  password: suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g
+  port: 8443
+  server: 159.223.157.129
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - alterId: 0
   cipher: auto
   name: github.com/freefq - 美国CloudFla...
