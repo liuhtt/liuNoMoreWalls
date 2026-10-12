@@ -608,6 +608,14 @@ proxies:
     headers:
       Host: www.47876202.xyz
     path: /path/191019072927
+- name: 🇩🇪192088 | ⚡️Telegram = t.me/v...
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 35.158.96.132
+  skip-cert-verify: true
+  sni: vpn-de-002.fastervpn.world
+  tls: false
+  type: hysteria2
 - name: '@KAFING_2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -654,7 +662,7 @@ proxies:
   sni: dehy.bbobr.win
   tls: false
   type: hysteria2
-- name: '@VConfing ❤️‍🔥'
+- name: '@v2ray_configs_pools 🇫🇷 ⚡️'
   obfs: salamander
   obfs-password: 87d72c2949c0ca85bbda09459244e374
   password: 35d26d53bc
@@ -856,7 +864,7 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
-- name: 🇨🇭192387 | ⚡️Telegram = t.me/S...
+- name: 🇨🇭192087 | ⚡️Telegram = t.me/v...
   obfs: salamander
   obfs-password: mbQXP2ASuHbF6ZPq
   password: capadm96216165
