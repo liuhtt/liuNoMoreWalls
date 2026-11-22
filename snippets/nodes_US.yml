@@ -67,8 +67,7 @@ proxies:
     headers:
       Host: server32.beheshtbaneh.com
     path: /
-- name: 美国4|@ripaojiedian
-  network: tcp
+- name: 🇺🇸 美国4|@ripaojiedian
   password: MiTiVPN
   port: 443
   server: 167.82.76.27
@@ -76,8 +75,7 @@ proxies:
   sni: ssl.fastly.com
   type: trojan
   udp: true
-- name: 美国5|@ripaojiedian
-  network: tcp
+- name: 🇺🇸 美国5|@ripaojiedian
   password: Mitivpn
   port: 443
   server: 151.101.110.219
